@@ -31,20 +31,11 @@
         "name": "51核心板",
         "board": "a4c92d3cb99637f1",
         "source": "",
-        "version": "1793632101501",
-        "updateTime": 1793632101501
+        "version": "1793634706283",
+        "updateTime": 1793634706283
       }
     },
     "sheets": {
-      "01254014d88dcfac": {
-        "uuid": "01254014d88dcfac",
-        "title": "电源模块",
-        "schematic_uuid": "f9e31ffc70c50186",
-        "zIndex": 1,
-        "source": "",
-        "version": "1793632101501",
-        "updateTime": 1793632101501
-      },
       "0723d1c0c47ab259": {
         "uuid": "0723d1c0c47ab259",
         "title": "单片机最小系统",
@@ -62,6 +53,15 @@
         "source": "",
         "version": "1793626202656",
         "updateTime": 1793626202656
+      },
+      "01254014d88dcfac": {
+        "uuid": "01254014d88dcfac",
+        "title": "电源模块",
+        "schematic_uuid": "f9e31ffc70c50186",
+        "zIndex": 1,
+        "source": "",
+        "version": "1793634706283",
+        "updateTime": 1793634706283
       }
     },
     "pcbs": {
@@ -71,8 +71,8 @@
         "board": "a4c92d3cb99637f1",
         "parent_uuid": "",
         "source": "",
-        "version": "1793632555199",
-        "updateTime": 1793632555199
+        "version": "1793634897614",
+        "updateTime": 1793634897614
       }
     },
     "panels": {
