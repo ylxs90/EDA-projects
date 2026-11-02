@@ -1,0 +1,4 @@
+{"type":"DOCHEAD"}||{"docType":"SCH","client":"28e44f8ff92c2a9e","uuid":"f9e31ffc70c50186","updateTime":1793628726155,"version":"1793628726155","editVersion":"4.1.93","user":{}}|
+{"type":"META","ticket":460,"id":"META"}||{"title":"51核心板","source":"","board":"a4c92d3cb99637f1","zIndex":null}|
+{"type":"RULE","ticket":719,"id":"[\"RULE\",\"TRACK\",\"copperThickness1oz\"]"}||{"ruleState":"DEFAULT","ruleContext":{"unit":"mm","track":{"isOpen":true,"content":[{"layerId":1,"stroDef":0.254,"stroMax":2.54,"stroMin":0.127}]}}}|
+{"type":"RULE","ticket":720,"id":"[\"RULE\",\"TRACK\",\"copperThickness2oz\"]"}||{"ruleState":"NORMAL","ruleContext":{"unit":"mm","track":{"isOpen":true,"content":[{"layerId":1,"stroDef":0.254,"stroMax":2.54,"stroMin":0.203}]}}}

@@ -1,0 +1,114 @@
+{
+  "name": "51_core_board_2026-11-02_20-56-11",
+  "owner_uuid": "b90ee8209d374a33a89d4ca2e02be36c",
+  "creator_uuid": "b90ee8209d374a33a89d4ca2e02be36c",
+  "created_at": "2026-11-02 20:56:31",
+  "updated_at": "2026-11-02 20:56:31",
+  "modifier_uuid": "b90ee8209d374a33a89d4ca2e02be36c",
+  "content": "",
+  "archive": false,
+  "cbb_project": 0,
+  "thumb": "",
+  "ticket": 1,
+  "g_ticket": 1,
+  "boards": [],
+  "block_symbol_attrs_groups": {},
+  "default_sheet": "0e052ea193bdcca9",
+  "branch_uuid": "",
+  "pcb_count": 0,
+  "format": "folder",
+  "profile": {
+    "boards": {
+      "a4c92d3cb99637f1": {
+        "uuid": "a4c92d3cb99637f1",
+        "title": "Board1",
+        "zIndex": 1
+      }
+    },
+    "schematics": {
+      "f9e31ffc70c50186": {
+        "uuid": "f9e31ffc70c50186",
+        "name": "51核心板",
+        "board": "a4c92d3cb99637f1",
+        "source": "",
+        "version": "1793632101501",
+        "updateTime": 1793632101501
+      }
+    },
+    "sheets": {
+      "01254014d88dcfac": {
+        "uuid": "01254014d88dcfac",
+        "title": "电源模块",
+        "schematic_uuid": "f9e31ffc70c50186",
+        "zIndex": 1,
+        "source": "",
+        "version": "1793632101501",
+        "updateTime": 1793632101501
+      },
+      "0723d1c0c47ab259": {
+        "uuid": "0723d1c0c47ab259",
+        "title": "单片机最小系统",
+        "schematic_uuid": "f9e31ffc70c50186",
+        "zIndex": 2,
+        "source": "",
+        "version": "1793626179317",
+        "updateTime": 1793626179317
+      },
+      "d69cda9f147723c5": {
+        "uuid": "d69cda9f147723c5",
+        "title": "烧录模块",
+        "schematic_uuid": "f9e31ffc70c50186",
+        "zIndex": 3,
+        "source": "",
+        "version": "1793626202656",
+        "updateTime": 1793626202656
+      }
+    },
+    "pcbs": {
+      "f347a7fb20eafc32": {
+        "uuid": "f347a7fb20eafc32",
+        "title": "PCB1",
+        "board": "a4c92d3cb99637f1",
+        "parent_uuid": "",
+        "source": "",
+        "version": "1793632555199",
+        "updateTime": 1793632555199
+      }
+    },
+    "panels": {
+      "1dfc666a916bf0e8": {
+        "uuid": "1dfc666a916bf0e8",
+        "title": "Panel1",
+        "zIndex": null
+      }
+    },
+    "blockSymbols": {},
+    "owner": {
+      "uuid": "b90ee8209d374a33a89d4ca2e02be36c"
+    },
+    "simSchematics": {},
+    "simulations": {}
+  },
+  "config": {
+    "defaultSheet": "0e052ea193bdcca9",
+    "settings": {
+      "UNIVERSAL": {
+        "dataType": "UNIVERSAL",
+        "data": {
+          "allowLibRename": true,
+          "defaultNetName": true,
+          "wireMultipleNet": true,
+          "netFlagCrossLayerConnection": true,
+          "netLabelCrossPageConnection": true,
+          "busGenerateNetClass": true,
+          "relevanceDisplayRow": "SINGLE",
+          "relevanceBelongSchPage": "NAME",
+          "relevanceLocation": "ZONE",
+          "multipartCrossLayer": true,
+          "nonElectronicAddIntoBom": false,
+          "nonElectronicUpdatePcb": false
+        }
+      }
+    }
+  }
+}
