@@ -31,28 +31,19 @@
         "name": "Schematic1",
         "board": "31bf3f3360b3045f",
         "source": "",
-        "version": "1793664543099",
-        "updateTime": 1793664543099
+        "version": "1793704224979",
+        "updateTime": 1793704224979
       }
     },
     "sheets": {
-      "8913b02078a45ae2": {
-        "uuid": "8913b02078a45ae2",
-        "title": "供电",
-        "schematic_uuid": "6dda3e6f945d45ae",
-        "zIndex": 3,
-        "source": "",
-        "version": "1793546529862",
-        "updateTime": 1793664535567
-      },
       "32c44467ad06a8e5": {
         "uuid": "32c44467ad06a8e5",
         "title": "138译码器",
         "schematic_uuid": "6dda3e6f945d45ae",
         "zIndex": 4,
         "source": "",
-        "version": "1793547730073",
-        "updateTime": 1793664535568
+        "version": "1793694255363",
+        "updateTime": 1793694255363
       },
       "7edc6e4b8333f525": {
         "uuid": "7edc6e4b8333f525",
@@ -60,8 +51,17 @@
         "schematic_uuid": "6dda3e6f945d45ae",
         "zIndex": 5,
         "source": "",
-        "version": "1793545476048",
-        "updateTime": 1793664535568
+        "version": "1793704224979",
+        "updateTime": 1793704224979
+      },
+      "8913b02078a45ae2": {
+        "uuid": "8913b02078a45ae2",
+        "title": "供电",
+        "schematic_uuid": "6dda3e6f945d45ae",
+        "zIndex": 3,
+        "source": "",
+        "version": "1793670253615",
+        "updateTime": 1793670253615
       }
     },
     "pcbs": {
@@ -71,8 +71,8 @@
         "board": "31bf3f3360b3045f",
         "parent_uuid": "",
         "source": "",
-        "version": "1793664511429",
-        "updateTime": 1793664511429
+        "version": "1793706771368",
+        "updateTime": 1793706771368
       }
     },
     "panels": {
