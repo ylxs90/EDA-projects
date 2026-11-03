@@ -23,11 +23,6 @@
         "uuid": "cb0a1fb7ef09af19",
         "title": "Board1",
         "zIndex": 1
-      },
-      "2f1cad1983a190a0": {
-        "uuid": "2f1cad1983a190a0",
-        "title": "38_245",
-        "zIndex": 2
       }
     },
     "schematics": {
@@ -38,14 +33,6 @@
         "source": "",
         "version": "1793542810739",
         "updateTime": 1793542810739
-      },
-      "8b8091903a5e7635": {
-        "uuid": "8b8091903a5e7635",
-        "name": "Schematic2",
-        "board": "2f1cad1983a190a0",
-        "source": "",
-        "version": "1793547730073",
-        "updateTime": 1793547730073
       }
     },
     "sheets": {
@@ -57,33 +44,6 @@
         "source": "",
         "version": "1793542810739",
         "updateTime": 1793542810739
-      },
-      "23460b8874ee6b15": {
-        "uuid": "23460b8874ee6b15",
-        "title": "供电",
-        "schematic_uuid": "8b8091903a5e7635",
-        "zIndex": 1,
-        "source": "",
-        "version": "1793546529862",
-        "updateTime": 1793546529862
-      },
-      "f36821eb33c7a290": {
-        "uuid": "f36821eb33c7a290",
-        "title": "138译码器",
-        "schematic_uuid": "8b8091903a5e7635",
-        "zIndex": 2,
-        "source": "",
-        "version": "1793547730073",
-        "updateTime": 1793547730073
-      },
-      "8ea2a2a0c897a3e9": {
-        "uuid": "8ea2a2a0c897a3e9",
-        "title": "245放大器",
-        "schematic_uuid": "8b8091903a5e7635",
-        "zIndex": 3,
-        "source": "",
-        "version": "1793545476048",
-        "updateTime": 1793545476048
       }
     },
     "pcbs": {
@@ -95,15 +55,6 @@
         "source": "",
         "version": "1793543784398",
         "updateTime": 1793543784398
-      },
-      "16238981af9b0b40": {
-        "uuid": "16238981af9b0b40",
-        "title": "PCB2",
-        "board": "2f1cad1983a190a0",
-        "parent_uuid": "",
-        "source": "",
-        "version": "1793545171053",
-        "updateTime": 1793545171053
       }
     },
     "panels": {
