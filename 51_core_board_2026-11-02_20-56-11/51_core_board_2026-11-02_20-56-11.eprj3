@@ -31,19 +31,19 @@
         "name": "51核心板",
         "board": "a4c92d3cb99637f1",
         "source": "",
-        "version": "1793634706283",
-        "updateTime": 1793634706283
+        "version": "1793804686796",
+        "updateTime": 1793804686796
       }
     },
     "sheets": {
       "0723d1c0c47ab259": {
         "uuid": "0723d1c0c47ab259",
-        "title": "单片机最小系统",
+        "title": "MCU最小系统",
         "schematic_uuid": "f9e31ffc70c50186",
         "zIndex": 2,
         "source": "",
-        "version": "1793626179317",
-        "updateTime": 1793626179317
+        "version": "1793804458169",
+        "updateTime": 1793804458169
       },
       "d69cda9f147723c5": {
         "uuid": "d69cda9f147723c5",
@@ -51,8 +51,8 @@
         "schematic_uuid": "f9e31ffc70c50186",
         "zIndex": 3,
         "source": "",
-        "version": "1793626202656",
-        "updateTime": 1793626202656
+        "version": "1793804686796",
+        "updateTime": 1793804686796
       },
       "01254014d88dcfac": {
         "uuid": "01254014d88dcfac",
@@ -60,8 +60,8 @@
         "schematic_uuid": "f9e31ffc70c50186",
         "zIndex": 1,
         "source": "",
-        "version": "1793634706283",
-        "updateTime": 1793634706283
+        "version": "1793791422441",
+        "updateTime": 1793791422441
       }
     },
     "pcbs": {
@@ -71,8 +71,8 @@
         "board": "a4c92d3cb99637f1",
         "parent_uuid": "",
         "source": "",
-        "version": "1793634897614",
-        "updateTime": 1793634897614
+        "version": "1793804687467",
+        "updateTime": 1793804687467
       }
     },
     "panels": {
