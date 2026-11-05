@@ -31,8 +31,8 @@
         "name": "51核心板",
         "board": "a4c92d3cb99637f1",
         "source": "",
-        "version": "1793889190640",
-        "updateTime": 1793889190640
+        "version": "1793896892403",
+        "updateTime": 1793896892403
       }
     },
     "sheets": {
@@ -42,8 +42,8 @@
         "schematic_uuid": "f9e31ffc70c50186",
         "zIndex": 2,
         "source": "",
-        "version": "1793869061446",
-        "updateTime": 1793869061446
+        "version": "1793896892403",
+        "updateTime": 1793896892403
       },
       "d69cda9f147723c5": {
         "uuid": "d69cda9f147723c5",
@@ -71,8 +71,8 @@
         "board": "a4c92d3cb99637f1",
         "parent_uuid": "",
         "source": "",
-        "version": "1793892434697",
-        "updateTime": 1793892434697
+        "version": "1793897072724",
+        "updateTime": 1793897072724
       }
     },
     "panels": {
